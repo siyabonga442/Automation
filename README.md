@@ -13,7 +13,7 @@ Automated testing for DemoWebShop website using Selenium WebDriver, Java, and Ma
 2. Install dependencies: `mvn clean install`
 3. Run tests: `mvn test`
 
-##Observed Bugs and Vulnerabilities:
+## Observed Bugs and Vulnerabilities:
     1. Insufficient Input Validation
        - Registration allows weak passwords
        - No complex password requirements
